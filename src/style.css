@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mi-app {
+    background-color: bisque;
+    min-height: 100vh;
+}

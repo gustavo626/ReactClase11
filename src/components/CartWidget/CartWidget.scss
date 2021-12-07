@@ -1,0 +1,14 @@
+.widget {
+    transition: all .5s ease-in-out;
+    opacity: 1;
+    visibility: visible;
+}
+
+.cartwidget {
+    font-size: 40px;
+}
+.hidden {
+    visibility: hidden;
+    pointer-events: none;
+    opacity: 0;
+}
